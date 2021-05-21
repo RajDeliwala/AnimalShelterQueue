@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AnimalShelterQueue", "AnimalShelterQueue\AnimalShelterQueue.pyproj", "{55A5A61A-44B1-4F8E-BF68-0D3F26F1EB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A5A61A-44B1-4F8E-BF68-0D3F26F1EB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A5A61A-44B1-4F8E-BF68-0D3F26F1EB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63A00C9-99E2-4551-96FA-9F8409E1C522}
+	EndGlobalSection
+EndGlobal
